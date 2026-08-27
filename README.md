@@ -1,18 +1,284 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>I'm a **Full Stack Developer** passionate about building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world solutions by developing responsive frontend interfaces and robust backend systems. I'm always eager to learn new technologies and improve my problem-solving skills.<br><br>🚀 **Currently working on:**<br>Building Full Stack web applications using **React, JavaScript, Django, PostgreSQL, REST APIs, HTML, and CSS.**<br><br>🤝 **Looking to collaborate on:**<br>Open-source projects, Full Stack applications, and innovative web solutions.<br><br>💡 **Looking for help with:**<br>Cloud deployment, scalable backend architecture, Docker, and software design patterns.<br><br>📚 **Currently learning:**<br>Advanced React, TypeScript, Next.js, Docker, PostgreSQL optimization, and modern software architecture.<br><br>💬 **Ask me about:**<br>React, JavaScript, Python, Django, PostgreSQL, REST APIs, HTML, CSS, Git, GitHub, and Responsive Web Design.<br><br>⚡ **Fun fact:**<br>I love turning ideas into complete applications—from designing beautiful user interfaces to building secure backend APIs and databases.<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=Hi%20there,%20I'm%20Rania!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Django%20%26%20React%20Specialist&descAlignY=58&descSize=20&descColor=ffffff" width="100%" alt="Header"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1MGxAeaURA/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ranya-ahmed-222334354) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raniaahmed200156@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RaniaAhmed56&theme=panda&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=RaniaAhmed56&theme=panda&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RaniaAhmed56&theme=panda&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+<a href="https://github.com/RaniaAhmed56">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F7FD5&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Django+%26+React+Specialist;Frontend+%26+Backend+Engineer;Building+Production-Ready+Applications" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 👋 Hello, I'm **Rania Ahmed**
+
+**Full Stack Developer** focused on building modern, scalable, and production-ready web applications.
+
+I enjoy working across the entire development lifecycle — from creating responsive and interactive interfaces with **React / Next.js** to designing robust backend systems and REST APIs with **Django / DRF**.
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=RaniaAhmed56&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+## 🚀 About Me
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 👩‍💻 Who I Am
+
+* 💻 **Full Stack Developer**
+* ⚛️ Specialized in **React.js & Next.js**
+* 🐍 Strong backend experience with **Python, Django & DRF**
+* 🗄️ Experienced with **PostgreSQL, MySQL & SQLite**
+* 🌐 Building **RESTful APIs & full-stack systems**
+* 🚀 Interested in **scalable software architecture**
+* ☁️ Exploring **Cloud, Docker & DevOps**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 What I Do
+
+* 🎨 Build modern & responsive frontend applications
+* 🔧 Design and integrate REST APIs
+* 🏗️ Develop complete full-stack applications
+* 🔐 Implement authentication & authorization
+* 📊 Work with relational databases
+* ⚡ Optimize application performance
+* 🔄 Integrate frontend systems with backend services
+* 🤝 Collaborate in real-world development teams
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💻 Tech Stack
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,vite,redux&theme=dark" alt="Frontend Technologies"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express&theme=dark" alt="Backend Technologies"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark" alt="Database Technologies"/>
+
+### Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman&theme=dark" alt="Tools and DevOps"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Experience
+
+</div>
+
+### 🚀 Frontend Developer — Saudi Startup
+
+**Remote · Part-time**
+
+* Took ownership of the **entire frontend development** of a real-world startup project.
+* Built and integrated modern interfaces using **React, TypeScript and modern frontend architecture**.
+* Worked closely with backend APIs and translated product requirements into functional UI.
+* Responsible for frontend implementation, integration, debugging and continuous improvements.
+
+---
+
+### 💻 Freelance Full Stack Developer
+
+* Developed complete web applications combining **React / Next.js** with **Django / Django REST Framework**.
+* Designed REST APIs and integrated them with frontend applications.
+* Worked with relational databases including **PostgreSQL, MySQL and SQLite**.
+* Implemented authentication, protected routes and application-level business logic.
+
+---
+
+<div align="center">
+
+## ⭐ Selected Projects
+
+</div>
+
+### 🏫 E-School — Full-Scale E-Learning Platform
+
+A comprehensive educational platform with a large frontend architecture and multiple integrated backend services.
+
+**Highlights:**
+
+* ⚛️ React + TypeScript
+* 🎨 Tailwind CSS
+* 🔌 REST API integration
+* 🔐 JWT / Token Authentication
+* 👥 Student-focused dashboard
+* 💬 Community Forum
+* 📚 Educational resources
+* 🧩 80+ reusable components
+* 🔗 Multiple API services and endpoints
+
+---
+
+### 🛒 BLANKO — Full Stack E-Commerce
+
+A complete e-commerce application where I worked across both frontend and backend.
+
+**Built with:**
+
+`React` · `Django` · `REST APIs` · `PostgreSQL` · `TypeScript`
+
+**Focus:**
+
+* Product management
+* Authentication
+* Shopping experience
+* API integration
+* Responsive UI
+* Backend business logic
+
+---
+
+### 💼 POS System
+
+A Point of Sale system developed as a backend-focused project.
+
+**Technologies:**
+
+`Python` · `Django` · `Django REST Framework` · `PostgreSQL`
+
+Worked on backend architecture, APIs, database operations and business logic as part of a development team.
+
+---
+
+### 🎓 Graduation Project
+
+A full-stack graduation project developed as part of a team.
+
+My main responsibility was focused on the **backend development**, including API development, database logic and integration with the frontend.
+
+---
+
+<div align="center">
+
+## 🧠 What I'm Currently Learning
+
+</div>
+
+```text
+React & Next.js
+       ↓
+TypeScript & Advanced Frontend Architecture
+       ↓
+Django & REST API Architecture
+       ↓
+Docker & Cloud Deployment
+       ↓
+Scalable Software Architecture
+```
+
+I'm continuously improving my understanding of how to build applications that are not only functional, but also **maintainable, scalable and production-ready**.
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=RaniaAhmed56&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
+
+<img src="https://streak-stats.demolab.com/?user=RaniaAhmed56&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniaAhmed56&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaniaAhmed56&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Current Goals
+
+</div>
+
+* 🚀 Build and contribute to **production-level applications**
+* 🏗️ Improve my understanding of **software architecture & system design**
+* ☁️ Strengthen my skills in **Docker, AWS & cloud deployment**
+* ⚡ Build better and more scalable **Full Stack applications**
+* 🌍 Contribute to meaningful **open-source projects**
+* 💼 Grow as a professional **Full Stack / Software Engineer**
+
+---
+
+<div align="center">
+
+## 🌐 Let's Connect
+
+<br/>
+
+<a href="https://github.com/RaniaAhmed56">
+<img src="https://img.shields.io/badge/GitHub-RaniaAhmed56-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ranya-ahmed-222334354/">
+<img src="https://img.shields.io/badge/LinkedIn-Rania%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:raniaahmed200156@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=RaniaAhmed56&style=for-the-badge&color=7F7FD5" alt="Profile Views"/>
+
+<br/><br/>
+
+### 💙 Thanks for visiting my profile!
+
+*"Building ideas into real-world software, one project at a time."*
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=120&section=footer" width="100%" alt="Footer"/>
+
+</div>
