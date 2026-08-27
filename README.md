@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F7FD5,50:86A8E7,100:91EAE4&amp;height=220&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20Rania%21&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Django%20and%20React%20Specialist&amp;descAlignY=60&amp;descSize=20&amp;descColor=ffffff" width="100%" alt="Hi there, I'm Rania"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F7FD5,50:86A8E7,100:91EAE4&amp;height=220&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20Rania%21&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Django%20%26%20React%20Specialist&amp;descAlignY=60&amp;descSize=20&amp;descColor=ffffff" width="100%" alt="Hi there, I'm Rania"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=25&amp;pause=1000&amp;color=7F7FD5&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Full+Stack+Developer;Django+and+React+Specialist;Frontend+and+Backend+Engineer;Building+Production-Ready+Applications;Turning+Ideas+Into+Real+Software" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=25&amp;pause=1000&amp;color=7F7FD5&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Full+Stack+Developer;Django+%26+React+Specialist;Frontend+%26+Backend+Engineer;Building+Production-Ready+Applications;Turning+Ideas+Into+Real+Software" alt="Typing SVG"/>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<h2>⚡ Rania Ahmed</h2>
+<h2>Rania Ahmed</h2>
 
 <p>
 <strong>Full Stack Developer</strong>
@@ -46,7 +46,7 @@ Building modern web applications with a focus on
 
 <div align="center">
 
-## 👩‍💻 About Me
+## About Me
 
 </div>
 
@@ -55,29 +55,31 @@ Building modern web applications with a focus on
 
 <td width="50%" valign="top">
 
-### ⚡ Who I Am
+### Engineering Focus
 
-* 💻 **Full Stack Developer**
-* ⚛️ React.js and Next.js focused
-* 🐍 Python, Django and DRF
-* 🗄️ PostgreSQL, MySQL and SQLite
-* 🔌 REST API development and integration
-* 🏗️ Interested in scalable architecture
-* ☁️ Exploring Cloud and DevOps
+* Full Stack Web Development
+* React.js & Next.js
+* Python, Django & Django REST Framework
+* RESTful API Architecture
+* Authentication & Authorization
+* PostgreSQL & Relational Databases
+* Scalable Application Architecture
+* Cloud & DevOps Fundamentals
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚀 What I Build
+### What I Build
 
-* 🎨 Modern responsive interfaces
-* 🔐 Authentication and authorization
-* 🔌 RESTful APIs
-* 🛒 E-Commerce applications
-* 🎓 E-Learning platforms
-* 📊 Business systems
-* 🔗 Complete frontend and backend integrations
+* Production-oriented web applications
+* Responsive frontend systems
+* REST API driven applications
+* E-Commerce platforms
+* E-Learning systems
+* Business & POS applications
+* Frontend / Backend integrations
+* Maintainable and reusable components
 
 </td>
 
@@ -88,23 +90,23 @@ Building modern web applications with a focus on
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## Technical Stack
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,vite,redux&amp;theme=dark" alt="Frontend Stack"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,vite,redux&amp;theme=dark" alt="Frontend Technologies"/>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,express&amp;theme=dark" alt="Backend Stack"/>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express&amp;theme=dark" alt="Backend Technologies"/>
 
-### Database
+### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&amp;theme=dark" alt="Database Stack"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&amp;theme=dark" alt="Database Technologies"/>
 
-### DevOps and Tools
+### DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman&amp;theme=dark" alt="DevOps and Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman&amp;theme=dark" alt="DevOps Technologies"/>
 
 </div>
 
@@ -112,34 +114,37 @@ Building modern web applications with a focus on
 
 <div align="center">
 
-## 💼 Experience
+## Professional Experience
 
 </div>
 
-### 🚀 Frontend Developer — Saudi Startup
+### Frontend Developer — Saudi Startup
 
 **Remote · Part-time**
 
-* Took ownership of the **entire frontend development** of a real-world startup project.
+* Took ownership of the **entire frontend development** of a real-world startup product.
 * Built responsive interfaces using **React and TypeScript**.
-* Integrated frontend features with backend REST APIs.
-* Handled implementation, debugging, integration and continuous improvements.
+* Integrated frontend features with backend **REST APIs**.
+* Implemented reusable components and application flows.
+* Handled debugging, integration and continuous improvements.
+* Collaborated remotely within a product-focused development environment.
 
 ---
 
-### 💻 Full Stack Developer
+### Full Stack Developer
 
-* Developed complete applications using **React / Next.js and Django / DRF**.
+* Developed full-stack applications using **React / Next.js and Django / DRF**.
 * Designed and integrated RESTful APIs.
-* Worked with PostgreSQL, MySQL and SQLite.
 * Implemented authentication and protected application flows.
-* Used Git and GitHub throughout development workflows.
+* Worked with relational and NoSQL databases.
+* Applied reusable component patterns and clean development practices.
+* Used Git and GitHub throughout the development lifecycle.
 
 ---
 
 <div align="center">
 
-## ⭐ Featured Projects
+## Featured Projects
 
 </div>
 
@@ -148,34 +153,35 @@ Building modern web applications with a focus on
 
 <td width="50%" valign="top">
 
-### 🏫 E-School
+### E-School
 
-A full-scale e-learning platform with a large React frontend and multiple API integrations.
+A full-scale e-learning platform with a large React frontend and multiple backend API integrations.
 
-**Stack**
+**Technology**
 
-`React` `TypeScript` `Tailwind` `REST APIs`
+`React` `TypeScript` `Tailwind CSS` `REST APIs`
 
 **Highlights**
 
 * 80+ reusable components
 * Multiple API services
-* Authentication
+* Authentication flows
 * Student dashboard
 * Community Forum
 * Educational resources
+* Responsive application architecture
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛒 BLANKO
+### BLANKO
 
-A modern full-stack e-commerce application.
+A modern full-stack e-commerce application combining a React frontend with a Django backend.
 
-**Stack**
+**Technology**
 
-`React` `Django` `TypeScript` `PostgreSQL`
+`React` `TypeScript` `Django` `PostgreSQL`
 
 **Highlights**
 
@@ -194,21 +200,37 @@ A modern full-stack e-commerce application.
 
 <td width="50%" valign="top">
 
-### 💼 POS System
+### POS System
 
-A business-focused Point of Sale system built around backend architecture and business logic.
+A business-focused Point of Sale system designed around backend architecture and real-world business logic.
 
-**Stack**
+**Technology**
 
 `Python` `Django` `DRF` `PostgreSQL`
+
+**Focus**
+
+* Business workflows
+* REST API architecture
+* Database modeling
+* Backend logic
+* Authentication
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎓 Graduation Project
+### Graduation Project
 
-A team-based graduation project where I focused primarily on backend development, APIs, database logic and frontend integration.
+A team-based software project where I focused primarily on backend development, APIs, database logic and frontend integration.
+
+**Focus**
+
+* Backend architecture
+* REST APIs
+* Database design
+* Frontend integration
+* Team collaboration
 
 </td>
 
@@ -219,7 +241,7 @@ A team-based graduation project where I focused primarily on backend development
 
 <div align="center">
 
-## 🧠 From Idea to Product
+## From Idea to Product
 
 <br/>
 
@@ -227,15 +249,15 @@ A team-based graduation project where I focused primarily on backend development
 <tr>
 
 <td align="center">
-<h3>💡</h3>
+<h3>01</h3>
 <strong>Idea</strong>
 </td>
 
 <td>→</td>
 
 <td align="center">
-<h3>🎨</h3>
-<strong>UI / UX</strong>
+<h3>02</h3>
+<strong>Interface</strong>
 <br/>
 React / Next.js
 </td>
@@ -243,7 +265,7 @@ React / Next.js
 <td>→</td>
 
 <td align="center">
-<h3>⚙️</h3>
+<h3>03</h3>
 <strong>Backend</strong>
 <br/>
 Django / DRF
@@ -252,8 +274,8 @@ Django / DRF
 <td>→</td>
 
 <td align="center">
-<h3>🗄️</h3>
-<strong>Database</strong>
+<h3>04</h3>
+<strong>Data</strong>
 <br/>
 PostgreSQL
 </td>
@@ -261,7 +283,7 @@ PostgreSQL
 <td>→</td>
 
 <td align="center">
-<h3>🚀</h3>
+<h3>05</h3>
 <strong>Product</strong>
 </td>
 
@@ -274,17 +296,11 @@ PostgreSQL
 
 <div align="center">
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaniaAhmed56&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="GitHub Stats"/>
-
-<img src="https://streak-stats.demolab.com/?user=RaniaAhmed56&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniaAhmed56&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com/?user=RaniaAhmed56&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="GitHub Contribution Streak"/>
 
 <br/><br/>
 
@@ -296,7 +312,7 @@ PostgreSQL
 
 <div align="center">
 
-## 🎯 Currently Working On
+## Current Focus
 
 <br/>
 
@@ -304,23 +320,23 @@ PostgreSQL
 <tr>
 
 <td align="center" width="25%">
-<h2>⚛️</h2>
-<strong>Advanced React</strong>
+<h2>React</h2>
+<strong>Advanced Frontend</strong>
 </td>
 
 <td align="center" width="25%">
-<h2>🏗️</h2>
-<strong>Software Architecture</strong>
+<h2>Architecture</h2>
+<strong>Software Design</strong>
 </td>
 
 <td align="center" width="25%">
-<h2>🐳</h2>
-<strong>Docker and DevOps</strong>
+<h2>DevOps</h2>
+<strong>Docker &amp; Deployment</strong>
 </td>
 
 <td align="center" width="25%">
-<h2>☁️</h2>
-<strong>Cloud</strong>
+<h2>Cloud</h2>
+<strong>Cloud Technologies</strong>
 </td>
 
 </tr>
@@ -332,22 +348,22 @@ PostgreSQL
 
 <div align="center">
 
-## 🌱 Goals
+## Professional Goals
 
 </div>
 
-* 🚀 Build production-level applications
-* 🏗️ Strengthen software architecture and system design
-* ☁️ Improve cloud and deployment skills
-* ⚡ Build scalable Full Stack systems
-* 🌍 Contribute to open-source projects
-* 💼 Grow as a professional Software Engineer
+* Build production-grade applications that solve real-world problems.
+* Strengthen software architecture and system design skills.
+* Improve cloud infrastructure and deployment knowledge.
+* Build scalable full-stack systems.
+* Contribute to meaningful open-source projects.
+* Grow as a professional Software Engineer.
 
 ---
 
 <div align="center">
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <br/>
 
@@ -372,8 +388,6 @@ PostgreSQL
 <br/>
 
 <div align="center">
-
-### 💙 Thanks for visiting my profile!
 
 <strong>Turning ideas into real-world software, one project at a time.</strong>
 
