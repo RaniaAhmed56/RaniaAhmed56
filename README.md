@@ -16,23 +16,31 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=RANIA%20AHMED&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="70%" alt="Rania Ahmed"/>
+<h2>⚡ Rania Ahmed</h2>
 
-<br/><br/>
+<p>
+<b>Full Stack Developer</b>
+&nbsp; • &nbsp;
+<b>React / Next.js</b>
+&nbsp; • &nbsp;
+<b>Django / DRF</b>
+</p>
 
-<img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-7F7FD5?style=for-the-badge" alt="Full Stack Developer"/>
-<img src="https://img.shields.io/badge/REACT-NEXT.JS-86A8E7?style=for-the-badge&logo=react&logoColor=white" alt="React Next.js"/>
-<img src="https://img.shields.io/badge/DJANGO-DRF-91EAE4?style=for-the-badge&logo=django&logoColor=white" alt="Django DRF"/>
+<p>
+Building modern web applications with a focus on
+<br/>
+<strong>clean architecture · scalable APIs · responsive interfaces</strong>
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-7F7FD5?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-Django%20%7C%20DRF-86A8E7?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-PostgreSQL-91EAE4?style=for-the-badge&logo=postgresql&logoColor=black"/>
 
 </div>
 
 <br/>
-
-<div align="center">
-
-> **I build complete web applications — from interactive interfaces to robust backend systems.**
-
-</div>
 
 ---
 
@@ -63,11 +71,11 @@
 ### 🚀 What I Build
 
 * 🎨 Modern responsive interfaces
-* 🔐 Authentication & authorization systems
+* 🔐 Authentication & authorization
 * 🔌 RESTful APIs
 * 🛒 E-Commerce applications
 * 🎓 E-Learning platforms
-* 📊 Business & management systems
+* 📊 Business systems
 * 🔗 Complete frontend/backend integrations
 
 </td>
@@ -123,7 +131,7 @@
 * Designed and integrated RESTful APIs.
 * Worked with PostgreSQL, MySQL and SQLite.
 * Implemented authentication and protected application flows.
-* Worked with Git/GitHub and modern development workflows.
+* Used Git/GitHub throughout development workflows.
 
 ---
 
@@ -195,7 +203,7 @@ A business-focused Point of Sale system built around backend architecture and bu
 
 ### 🎓 Graduation Project
 
-A complete team-based graduation project where I focused primarily on backend development, APIs, database logic and frontend integration.
+A team-based graduation project where I focused primarily on backend development, APIs, database logic and frontend integration.
 
 </td>
 </tr>
@@ -205,40 +213,33 @@ A complete team-based graduation project where I focused primarily on backend de
 
 <div align="center">
 
-## 🧠 My Development Journey
+## 🧠 From Idea to Product
+
+<br/>
+
+**💡 Idea**
+
+⬇️
+
+**🎨 Interface — React / Next.js**
+
+⬇️
+
+**⚙️ Backend — Django / DRF**
+
+⬇️
+
+**🗄️ Data — PostgreSQL / SQL**
+
+⬇️
+
+**🐳 Deployment — Docker / Cloud**
+
+⬇️
+
+**🚀 Production**
 
 </div>
-
-```text
-              💡 IDEA
-                 │
-                 ▼
-        ┌─────────────────┐
-        │   UI / UX        │
-        │ React / Next.js  │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │    BACKEND       │
-        │ Django / DRF     │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │    DATABASE      │
-        │ PostgreSQL / SQL │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │   DEPLOYMENT     │
-        │ Docker / AWS     │
-        └────────┬────────┘
-                 │
-                 ▼
-              🚀 PRODUCT
-```
 
 ---
 
@@ -268,9 +269,9 @@ A complete team-based graduation project where I focused primarily on backend de
 
 ## 🎯 Currently Working On
 
-</div>
+<br/>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="25%">
 
@@ -284,7 +285,7 @@ A complete team-based graduation project where I focused primarily on backend de
 
 ### 🏗️
 
-**Software Architecture**
+**Architecture**
 
 </td>
 
@@ -300,11 +301,13 @@ A complete team-based graduation project where I focused primarily on backend de
 
 ### ☁️
 
-**Cloud Deployment**
+**Cloud**
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -314,9 +317,9 @@ A complete team-based graduation project where I focused primarily on backend de
 
 </div>
 
-* 🚀 Build more production-level applications
-* 🏗️ Strengthen software architecture & system design skills
-* ☁️ Improve cloud and deployment knowledge
+* 🚀 Build production-level applications
+* 🏗️ Strengthen software architecture & system design
+* ☁️ Improve cloud and deployment skills
 * ⚡ Build scalable Full Stack systems
 * 🌍 Contribute to open-source projects
 * 💼 Grow as a professional Software Engineer
