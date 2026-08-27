@@ -2,19 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F7FD5,50:86A8E7,100:91EAE4&amp;height=230&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20Rania!&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Django%20%26amp%3B%20React%20Specialist&amp;descAlignY=61&amp;descSize=20&amp;descColor=ffffff" width="100%" alt="Hi there, I'm Rania!"/>
 
-</div>
-
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=7F7FD5&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Full+Stack+Developer;Django+%26amp%3B+React+Specialist;Frontend+%26amp%3B+Backend+Engineer;Production-Ready+Web+Applications;Clean+Architecture+%26amp%3B+Scalable+Systems" alt="Typing introduction"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=7F7FD5&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Full+Stack+Developer;Django+%26amp%3B+React+Specialist;Frontend+%26amp%3B+Backend+Engineer;Building+Production-Ready+Applications;Designing+Scalable+Web+Systems" alt="Typing SVG"/>
-
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <a href="https://github.com/RaniaAhmed56">
 <img src="https://img.shields.io/badge/GitHub-RaniaAhmed56-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
@@ -28,11 +20,7 @@
 <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=RaniaAhmed56&amp;style=for-the-badge&amp;color=7F7FD5" alt="Profile Views"/>
 
@@ -42,58 +30,61 @@
 
 <div align="center">
 
-## About Me
+# Full Stack Developer
 
-<p>
-I'm a <strong>Full Stack Developer</strong> focused on building modern,
-scalable and production-oriented web applications.
-</p>
+### Building scalable web applications from interface to backend.
 
-<p>
-My primary stack combines <strong>React / Next.js</strong> on the frontend
-with <strong>Python / Django / DRF</strong> on the backend.
-</p>
+<br/>
 
-<p>
-I enjoy turning ideas into complete products — from
-<strong>responsive interfaces</strong> and reusable components
-to <strong>REST APIs, databases and deployment</strong>.
-</p>
+<img src="https://img.shields.io/badge/React-7F7FD5?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&amp;logo=next.js&amp;logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django REST Framework"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/>
 
 </div>
 
-<br/>
+---
+
+<div align="center">
+
+## About Me
+
+</div>
 
 <table align="center">
 <tr>
 
 <td width="50%" valign="top">
 
-### Engineering Focus
+### Engineering
 
-* Full Stack Web Development
-* React.js & Next.js
-* TypeScript & JavaScript
-* Python & Django
-* Django REST Framework
-* REST API Architecture
-* Authentication & Authorization
-* PostgreSQL & SQL Databases
+I build modern web applications with a strong focus on:
+
+<img src="https://img.shields.io/badge/Frontend-React%20%2F%20Next.js-7F7FD5?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="Frontend"/>
+
+<img src="https://img.shields.io/badge/Backend-Django%20%2F%20DRF-86A8E7?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Backend"/>
+
+<img src="https://img.shields.io/badge/API-RESTful-91A5E8?style=for-the-badge" alt="REST API"/>
+
+<img src="https://img.shields.io/badge/Data-PostgreSQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Database"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-### What I Build
+### Product Mindset
 
-* Production-oriented web applications
-* E-Commerce platforms
-* E-Learning systems
-* Business applications
-* POS systems
-* Responsive frontend systems
-* API-driven applications
-* Full frontend / backend integrations
+I care about more than writing code.
+
+* Clean and maintainable architecture
+* Reusable components
+* Responsive user experiences
+* Secure application flows
+* API-driven systems
+* Real-world business logic
+* Production-oriented development
 
 </td>
 
@@ -142,25 +133,32 @@ to <strong>REST APIs, databases and deployment</strong>.
 
 ### Frontend Developer — Saudi Startup
 
-**Remote · Part-time**
+<img src="https://img.shields.io/badge/Remote-Part--Time-7F7FD5?style=flat-square" alt="Remote Part-Time"/>
 
-* Took ownership of the **entire frontend development** of a real-world startup product.
-* Built responsive interfaces using **React and TypeScript**.
-* Integrated frontend features with backend **REST APIs**.
-* Developed reusable components and application flows.
-* Handled debugging, integration and continuous improvements.
-* Worked remotely within a product-focused development environment.
+<br/><br/>
+
+| Area            | Contribution                                                                                 |
+| --------------- | -------------------------------------------------------------------------------------------- |
+| **Ownership**   | Took responsibility for the **entire frontend development** of a real-world startup product. |
+| **Frontend**    | Built responsive interfaces using **React + TypeScript**.                                    |
+| **Integration** | Connected frontend features with backend **REST APIs**.                                      |
+| **Engineering** | Implemented reusable components and application flows.                                       |
+| **Quality**     | Handled debugging, integration and continuous improvements.                                  |
 
 ---
 
-### Full Stack Developer
+### Full Stack Development
 
-* Developed complete applications using **React / Next.js and Django / DRF**.
+<img src="https://img.shields.io/badge/Frontend-React%20%2F%20Next.js-7F7FD5?style=flat-square&amp;logo=react&amp;logoColor=white" alt="Frontend"/>
+<img src="https://img.shields.io/badge/Backend-Django%20%2F%20DRF-86A8E7?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Backend"/>
+<img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="Database"/>
+
+* Developed complete full-stack applications.
 * Designed and integrated RESTful APIs.
 * Implemented authentication and protected application flows.
-* Worked with PostgreSQL, MySQL and SQLite.
-* Applied reusable component and modular architecture patterns.
-* Used Git and GitHub throughout the development lifecycle.
+* Worked with relational and NoSQL databases.
+* Applied modular and reusable architecture patterns.
+* Used Git and GitHub throughout development workflows.
 
 ---
 
@@ -175,17 +173,19 @@ to <strong>REST APIs, databases and deployment</strong>.
 
 <td width="50%" valign="top">
 
-### E-School
+<h3 align="center">E-School</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-7F7FD5?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind"/>
+</p>
 
 A full-scale e-learning platform with a large React frontend and multiple API integrations.
 
-**Stack**
+**Key Highlights**
 
-`React` `TypeScript` `Tailwind CSS` `REST APIs`
-
-**Highlights**
-
-* 80+ reusable components
+* **80+** reusable components
 * Multiple API services
 * Authentication flows
 * Student dashboard
@@ -197,21 +197,23 @@ A full-scale e-learning platform with a large React frontend and multiple API in
 
 <td width="50%" valign="top">
 
-### BLANKO
+<h3 align="center">BLANKO</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-7F7FD5?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/>
+</p>
 
 A modern full-stack e-commerce application combining a React frontend with a Django backend.
 
-**Stack**
-
-`React` `TypeScript` `Django` `PostgreSQL`
-
-**Highlights**
+**Key Highlights**
 
 * Product management
 * Authentication
 * REST APIs
 * Responsive UI
-* Backend business logic
+* Business logic
 * Database integration
 
 </td>
@@ -222,27 +224,34 @@ A modern full-stack e-commerce application combining a React frontend with a Dja
 
 <td width="50%" valign="top">
 
-### POS System
+<h3 align="center">POS System</h3>
 
-A business-focused Point of Sale system designed around backend architecture and real-world business logic.
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&amp;logo=django&amp;logoColor=white" alt="DRF"/>
+</p>
 
-**Stack**
-
-`Python` `Django` `DRF` `PostgreSQL`
+A business-focused Point of Sale system built around backend architecture and real-world business logic.
 
 **Focus**
 
 * Business workflows
-* REST API architecture
+* API architecture
 * Database modeling
-* Backend logic
 * Authentication
+* Backend business logic
 
 </td>
 
 <td width="50%" valign="top">
 
-### Graduation Project
+<h3 align="center">Graduation Project</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Backend-Focused-86A8E7?style=flat-square" alt="Backend Focused"/>
+<img src="https://img.shields.io/badge/API-RESTful-7F7FD5?style=flat-square" alt="REST API"/>
+</p>
 
 A team-based software project where I focused primarily on backend development, APIs, database logic and frontend integration.
 
@@ -267,54 +276,23 @@ A team-based software project where I focused primarily on backend development, 
 
 <br/>
 
-<table align="center">
-<tr>
+<img src="https://img.shields.io/badge/01-Requirements-7F7FD5?style=for-the-badge" alt="Requirements"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/02-Frontend-86A8E7?style=for-the-badge" alt="Frontend"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/03-Backend-91A5E8?style=for-the-badge" alt="Backend"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/04-Database-6C8CD5?style=for-the-badge" alt="Database"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/05-Deployment-5F6FA8?style=for-the-badge" alt="Deployment"/>
 
-<td align="center" width="20%">
-<h3>01</h3>
-<strong>Idea</strong>
-<br/>
-Product Requirements
-</td>
+<br/><br/>
 
-<td align="center">→</td>
-
-<td align="center" width="20%">
-<h3>02</h3>
-<strong>Frontend</strong>
-<br/>
-React / Next.js
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="20%">
-<h3>03</h3>
-<strong>Backend</strong>
-<br/>
-Django / DRF
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="20%">
-<h3>04</h3>
-<strong>Data</strong>
-<br/>
-PostgreSQL
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="20%">
-<h3>05</h3>
-<strong>Deploy</strong>
-<br/>
-Cloud / DevOps
-</td>
-
-</tr>
-</table>
+<code>Understand</code>
+ →  <code>Design</code>
+ →  <code>Build</code>
+ →  <code>Integrate</code>
+ →  <code>Deploy</code>
 
 </div>
 
@@ -326,11 +304,15 @@ Cloud / DevOps
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=RaniaAhmed56&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=10" width="70%" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com/?user=RaniaAhmed56&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" width="70%" alt="GitHub Contribution Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaniaAhmed56&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;radius=10" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaniaAhmed56&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;radius=12" width="95%" alt="GitHub Activity Graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaniaAhmed56&amp;theme=tokyonight" width="95%" alt="GitHub Profile Summary"/>
 
 </div>
 
@@ -347,36 +329,56 @@ Cloud / DevOps
 
 <td align="center" width="25%">
 
-<h3>React</h3>
+<img src="https://skillicons.dev/icons?i=react&amp;theme=dark" width="55" alt="React"/>
 
-Advanced Frontend <br/>
-Reusable Systems
+<br/><br/>
 
-</td>
+<strong>Advanced React</strong>
 
-<td align="center" width="25%">
+<br/>
 
-<h3>Architecture</h3>
-
-Software Design <br/>
-Scalable Systems
+Reusable UI Systems
 
 </td>
 
 <td align="center" width="25%">
 
-<h3>DevOps</h3>
+<img src="https://skillicons.dev/icons?i=django&amp;theme=dark" width="55" alt="Django"/>
 
-Docker <br/>
-Deployment
+<br/><br/>
+
+<strong>Backend Architecture</strong>
+
+<br/>
+
+Scalable APIs
 
 </td>
 
 <td align="center" width="25%">
 
-<h3>Cloud</h3>
+<img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="55" alt="Docker"/>
 
-AWS <br/>
+<br/><br/>
+
+<strong>DevOps</strong>
+
+<br/>
+
+Containers & Deployment
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" width="55" alt="AWS"/>
+
+<br/><br/>
+
+<strong>Cloud</strong>
+
+<br/>
+
 Infrastructure
 
 </td>
@@ -390,16 +392,58 @@ Infrastructure
 
 <div align="center">
 
+## Engineering Principles
+
+<br/>
+
+<img src="https://img.shields.io/badge/Clean_Code-7F7FD5?style=for-the-badge" alt="Clean Code"/>
+<img src="https://img.shields.io/badge/Reusable_Components-86A8E7?style=for-the-badge" alt="Reusable Components"/>
+<img src="https://img.shields.io/badge/Scalable_APIs-91A5E8?style=for-the-badge" alt="Scalable APIs"/>
+<img src="https://img.shields.io/badge/Responsive_UI-6C8CD5?style=for-the-badge" alt="Responsive UI"/>
+<img src="https://img.shields.io/badge/Real--World_Logic-5F6FA8?style=for-the-badge" alt="Real World Logic"/>
+
+</div>
+
+---
+
+<div align="center">
+
 ## Professional Goals
 
 </div>
 
-* Build production-grade applications that solve real-world problems.
-* Strengthen software architecture and system design.
-* Improve cloud infrastructure and deployment skills.
-* Build scalable full-stack systems.
-* Contribute to meaningful open-source projects.
-* Grow as a professional Software Engineer.
+<table align="center">
+<tr>
+
+<td width="33%" align="center">
+
+### Build
+
+Production-grade <br/>
+applications
+
+</td>
+
+<td width="33%" align="center">
+
+### Scale
+
+Architecture & <br/>
+system design
+
+</td>
+
+<td width="33%" align="center">
+
+### Grow
+
+Cloud, DevOps & <br/>
+engineering skills
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -410,30 +454,34 @@ Infrastructure
 <br/>
 
 <a href="https://github.com/RaniaAhmed56">
-<img src="https://img.shields.io/badge/GitHub-RaniaAhmed56-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ranya-ahmed-222334354/">
-<img src="https://img.shields.io/badge/LinkedIn-Rania%20Ahmed-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:raniaahmed200156@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=RaniaAhmed56&amp;style=for-the-badge&amp;color=7F7FD5" alt="Profile Views"/>
 
+<br/><br/>
+
+<strong>Turning ideas into real-world software.</strong>
+
+<br/>
+
+<sub>Full Stack Development • Clean Architecture • Scalable Systems</sub>
+
 </div>
 
 <br/>
 
 <div align="center">
-
-<strong>Turning ideas into real-world software.</strong>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F7FD5,50:86A8E7,100:91EAE4&amp;height=130&amp;section=footer" width="100%" alt="Footer"/>
 
